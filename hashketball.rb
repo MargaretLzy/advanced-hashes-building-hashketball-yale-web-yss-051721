@@ -1,5 +1,5 @@
 # Write your code here!
-def game_hash
+def game_hash{
       :home => {
       team_name:"Brooklyn Nets",
       color:["Black","White"], 
@@ -11,4 +11,5 @@ def game_hash
       ]},
       :away => {
   }
+}
 end
