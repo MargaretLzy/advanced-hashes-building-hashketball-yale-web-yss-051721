@@ -1,6 +1,5 @@
 # Write your code here!
 def game_hash
-    :top_level_keys =>
       :home => {
       team_name:"Brooklyn Nets",
       color:["Black","White"], 
